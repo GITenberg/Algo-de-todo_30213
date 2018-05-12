@@ -1,0 +1,35 @@
+_repo: Algo-de-todo_30213
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Valera, Juan
+    aliases:
+    - Galiano, Juan Valera y Alcalá
+    - Galiano, Juan Valera y Alcala
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '4923'
+    url: http://www.gutenberg.org/2009/agents/4923
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Juan_Valera_y_Alcala_Galiano
+    - http://es.wikipedia.org/wiki/Juan_Valera
+description: ''
+gutenberg_issued: '2009-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30213'
+  lccn: '03017640'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Essays'
+tableOfContents: La primavera -- La cordobesa -- Un poco de crematística -- Las escritoras
+  en España y elogio de Santa Teresa -- Sobre el Fausto de Goethe -- Sobre Shakspeare.
+title: Algo de todo
+url: http://www.gutenberg.org/ebooks/30213
